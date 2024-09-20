@@ -2,7 +2,7 @@ body {
     margin: 0;
     font-family: 'Inclusive Sans', sans-serif;
     /* background: linear-gradient(70deg, blue, purple, pink); */
-    background-image: url('../img/mibebe.jpg');
+    background-image: url('https://samueluru2001.github.io/flores_amarillas_/img/mibebe.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover; /* Para que la imagen cubra todo el contenedor */
